@@ -1,2 +1,2 @@
 # EEG_ML_QC
-There is no more need to do manual QC on EEG data. Dream will come true.
+There is need to do manual QC on EEG data any more. Dream will come true.
